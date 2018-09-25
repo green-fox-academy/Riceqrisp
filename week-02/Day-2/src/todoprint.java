@@ -12,7 +12,11 @@ public class todoprint {
         //  - Download games
         //  - Diablo
 
-        todoText.replace("","");
-        System.out.println(todoText);
+
+        String mytodo = "My todo:\n";
+        String todoText1 = " - Download games\n";
+        String todoText2 = " - Diablo\n";
+
+        System.out.println(mytodo+todoText+todoText1+todoText2);
     }
 }
