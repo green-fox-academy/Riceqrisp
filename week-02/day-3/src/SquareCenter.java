@@ -4,23 +4,14 @@ import java.awt.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class Horizontal {
+public class SquareCenter {
+
     public static void mainDraw(Graphics graphics) {
-        // Create a line drawing function that takes 2 parameters:
-        // The x and y coordinates of the line's starting point
-        // and draws a 50 long horizontal line from that point.
-        // Draw 3 lines with that function. Use loop for that.
+        // Draw a green 10x10 square to the canvas' center.
+        graphics.setColor(Color.GREEN);
+        graphics.drawRect(WIDTH/2,HEIGHT/2,WIDTH/2+10,HEIGHT/2+10);
 
 
-        for (int i = 0; i < 300; i++) {
-            DrawingLine(10,10,graphics);
-
-        }
-    }
-
-    public static void DrawingLine (int x1,int y1,Graphics graphics){
-        int x2 = x1 + 50;
-        graphics.drawLine(x1,y1,x2,y1);
     }
 
     // Don't touch the code below
@@ -41,6 +32,7 @@ public class Horizontal {
         protected void paintComponent(Graphics graphics) {
             super.paintComponent(graphics);
             mainDraw(graphics);
+
         }
     }
 }

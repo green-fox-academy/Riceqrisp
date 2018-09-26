@@ -12,17 +12,18 @@ public class toTheCenter {
         // and draws a line from that point to the center of the canvas.
         // Draw 3 lines with that function. Use loop for that.
 
-        Drawlines(150,150,graphics);
+        Drawlines(0,0,graphics);
 
 
     }
     public static void Drawlines (int x1, int y1,Graphics graphics) {
 
         graphics.setColor(Color.BLACK);
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 100; i++) {
 
             graphics.drawLine(x1,y1,WIDTH/2,HEIGHT/2);
             x1 = x1 + 10;
+
         }
     }
     // Don't touch the code below
