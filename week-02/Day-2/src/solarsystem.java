@@ -8,11 +8,9 @@ public class solarsystem {
         // Create a method called putSaturn() which has list parameter and returns the correct list.
         // Expected output: "Mercury", "Venus", "Earth", "Mars", "Jupiter", "Uranus", "Neptune", "Saturn"
 
-        putSaturn(planetList);
-        System.out.println(putSaturn(planetList));
+        planetList.add(3,"Saturn");
+
+        System.out.println(planetList);
     }
 
-    private static boolean putSaturn(ArrayList<String> planetList) {
-       planetList.add(3,"Saturn");
-    }
 }

@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="41697247-dcdc-4e5c-9ca7-9562cc1959e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day-2/out/production/Day-2/todoprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/out/production/Day-2/todoprint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day-2/src/todoprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/src/todoprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day-2/src/solarsystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/src/solarsystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/Printarguments.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="e#73#74#0" expanded="true" />
                 <element signature="e#101#102#0" expanded="true" />
@@ -88,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/src/comparelength.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -142,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/src/DoubleItems.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -222,7 +222,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537889472608" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537951777897" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -301,12 +301,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537782895109</updated>
-      <workItem from="1537782901429" duration="32877000" />
+      <workItem from="1537782901429" duration="33345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32877000" />
+    <option name="totallyTimeSpent" value="33345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="334" y="44" width="974" height="830" extended-state="1" />
@@ -428,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/src/DoubleItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -470,7 +470,7 @@
     <entry file="file://$PROJECT_DIR$/src/comparelength.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -488,7 +488,7 @@
     <entry file="file://$PROJECT_DIR$/src/Printarguments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="e#73#74#0" expanded="true" />
             <element signature="e#101#102#0" expanded="true" />
