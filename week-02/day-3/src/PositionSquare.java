@@ -15,6 +15,21 @@ public class PositionSquare {
         // avoid code duplication.
 
 
+        for (int i = 0; i < 3; i++) {
+
+            int x1 = (int) (Math.random() * 100);
+            int y1 = (int) (Math.random() * 100);
+
+            Square(x1,y1,graphics);
+
+        }
+
+        }
+    public static void Square (int x1,int y1,Graphics graphics){
+
+        graphics.setColor(Color.green);
+
+        graphics.fillRect(x1,y1,x1+50,y1+50);
 
     }
 
