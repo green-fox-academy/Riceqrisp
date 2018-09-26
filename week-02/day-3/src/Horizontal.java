@@ -4,23 +4,14 @@ import java.awt.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class Diagonals {
+public class Horizontal {
     public static void mainDraw(Graphics graphics) {
-        // Draw the canvas' diagonals.
-        // If it starts from the upper-left corner it should be green, otherwise it should be red.
-        int x1 = 10;
-        int x2 = 160;
-        int y1 = 0;
-        int y2 = 171;
+        // Create a line drawing function that takes 2 parameters:
+        // The x and y coordinates of the line's starting point
+        // and draws a 50 long horizontal line from that point.
+        // Draw 3 lines with that function. Use loop for that.
 
 
-        if (x1 == 0) {
-            graphics.setColor(Color.GREEN);
-        }
-        else   {
-            graphics.setColor(Color.RED);
-        }
-        graphics.drawLine(x1,y1,x2,y2);
 
     }
 
