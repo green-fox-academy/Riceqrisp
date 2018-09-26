@@ -8,17 +8,17 @@ public class checkboard {
     public static void mainDraw(Graphics graphics) {
         // Fill the canvas with a checkerboard pattern.
         int xb = 0;
-        int xw = 20;
-        int yb = 0;
+        int xw = 0;
+        int yb = 20;
         int yw = 0;
         int swap = 0;
         for (int j = 0; j < 8 ; j++)
         {
             for (int i = 0; i < 8; i++) {
 
-                if (j%2 == 0 ) {
-                    xb = 20;
-                    xw = 0;
+                if (j%2 != 0 ) {
+                    xb = 0;
+                    xw = 20;
 
                     patternBlack(xb, yb, graphics);
 
@@ -28,13 +28,13 @@ public class checkboard {
                     xw = xw + 40;
                 }
                 else{
-                    patternBlack(xb, yb, graphics);
+                  patternBlack(xb, yb, graphics);
 
-                    patternWhite(xw, yw, graphics);
+                  patternWhite(xw, yw, graphics);
 
-                    xb = xb + 40;
-                    xw = xw + 40;
-                }
+                 xb = xb + 40;
+                   xw = xw + 40;
+                 }
             }
 
 
