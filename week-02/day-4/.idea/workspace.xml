@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da5ca36-d3a2-4d07-a4af-7fa76b483347" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leftovers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leftovers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leftovers/src/simplerplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Leftovers/src/simplerplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/out/production/day-3/FillRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/out/production/day-3/FillRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/FillRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/FillRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day-4/lineplay$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-4/lineplay$ImagePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day-4/lineplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-4/lineplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lineplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lineplay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/Envelope.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/Splits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-255">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,8 +130,8 @@
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,7 +162,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538395423650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538433637622" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -245,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538034639140</updated>
-      <workItem from="1538034645882" duration="25013000" />
+      <workItem from="1538034645882" duration="27108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25013000" />
+    <option name="totallyTimeSpent" value="27108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
@@ -318,7 +314,7 @@
     <entry file="file://$PROJECT_DIR$/src/Splits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -348,7 +344,7 @@
     <entry file="file://$PROJECT_DIR$/src/Envelope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3fad740-1a7a-4108-b55f-d9cccb39b395" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day-3/FillRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-3/FillRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FillRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FillRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leftovers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Leftovers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-4/out/production/day-4/lineplay$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/out/production/day-4/lineplay$ImagePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-4/out/production/day-4/lineplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/out/production/day-4/lineplay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-4/src/lineplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/src/lineplay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +16,7 @@
     <session id="-1398753170">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -209,7 +204,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="977" />
@@ -244,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538395423618" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538395859927" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,7 +328,7 @@
     <option name="totallyTimeSpent" value="48469000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -349,7 +344,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49343544" visible="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49343544" weight="0.3248227" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4890591" weight="0.3308026" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
