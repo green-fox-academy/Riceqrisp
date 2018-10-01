@@ -10,17 +10,17 @@ public class FillRectangle {
         // draw four different size and color rectangles.
         // avoid code duplication.
 
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 100; i++) {
 
-            int x1 = (int) (Math.random() * 100);
-            int x2 = (int) (Math.random() * 100);
+            int x1 = (int) (Math.random() * 1000);
+            int x2 = (int) (Math.random() * 1000);
 
-            int y1 = (int) (Math.random() * 100);
-            int y2 = (int) (Math.random() * 100);
+            int y1 = (int) (Math.random() * 1000);
+            int y2 = (int) (Math.random() * 1000);
 
-            int r = (int) (Math.random() * 257);
-            int g = (int) (Math.random() * 257);
-            int b = (int) (Math.random() * 257);
+            int r = (int) (Math.random() * 256);
+            int g = (int) (Math.random() * 256);
+            int b = (int) (Math.random() * 256);
 
 
              if ((x1 != x2) || (y1!= y2)) {
