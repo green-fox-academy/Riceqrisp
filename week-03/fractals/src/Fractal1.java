@@ -1,31 +1,15 @@
+import sun.java2d.loops.DrawLine;
+
 import javax.swing.*;
 
 import java.awt.*;
 
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
-public class Triangle {
-    public static void mainDraw ( Graphics graphics) {
-    FractalHash(0,0,WIDTH,graphics);
+public class Fractal1 {
+    public static void mainDraw(Graphics graphics) {
 
     }
-public static void FractalHash(int x,int y, int size,Graphics graphics) {
-    if (size > 0) {
-        graphics.drawLine(size / 3+x, y, size / 3+x, size+y);
-        graphics.drawLine(x, size / 3+y, size+x, y+size / 3);
-        graphics.drawLine(x, y+size * 2 / 3, x+size, y+size * 2 / 3);
-        graphics.drawLine(x+size * 2 / 3, y, x+size * 2 / 3, y+size);
-
-        FractalHash (size / 3 + x ,y,size/3,graphics);
-        FractalHash (x,size / 3 + y,size/3,graphics);
-        FractalHash ( x+size/3 ,size* 2 / 3+y,size/3,graphics);
-        FractalHash (size* 2 / 3 + x,y+size/3,size/3,graphics);
-
-
-
-    }
-}
-
 
     // Don't touch the code below
     static int WIDTH = 500;
@@ -50,6 +34,3 @@ public static void FractalHash(int x,int y, int size,Graphics graphics) {
         }
     }
 }
-
-
-

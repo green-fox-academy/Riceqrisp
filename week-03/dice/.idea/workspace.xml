@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b18cc1-83e8-4255-ab5d-8a17fb8c10b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-4/day-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-4/src/Factorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-4/src/StringStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/fractals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/src/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fractals/src/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fractals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fractals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fractals/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fractals/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fractals/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fractals/src/Triangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,6 +20,7 @@
     <session id="1878498798">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -104,9 +96,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="1937" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="989" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -133,7 +125,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538726367040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538728930646" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -167,7 +159,7 @@
     <option name="totallyTimeSpent" value="1569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
