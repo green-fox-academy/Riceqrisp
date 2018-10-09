@@ -1,7 +1,10 @@
-public class Student extends Person implements Cloneable{
+public class Student{
 
     String previousOrganization;
     int skippedDays;
+    String name;
+    int age;
+    String gender;
 
 
     public Student(){
@@ -13,10 +16,10 @@ public class Student extends Person implements Cloneable{
     }
 
     public Student(String name, int age, String gender,String previousOrganization){
-        super(name,age,gender);
-            this.previousOrganization = previousOrganization;
-            skippedDays = 0;
-        }
+        //super(name,age,gender);
+        this.previousOrganization = previousOrganization;
+        skippedDays = 0;
+    }
 
     public String goal() {
         return "Be a junior software developer";
@@ -29,7 +32,5 @@ public class Student extends Person implements Cloneable{
         skippedDays = skippedDays + numberOfDays;
         return skippedDays;
     }
-    public Object clone(){
-        return new Student(this.name,this.age,this.gender,this.previousOrganization);
-    }
+
 }

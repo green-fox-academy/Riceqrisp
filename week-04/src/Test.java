@@ -12,7 +12,8 @@ public class Test {
         people.add(mark);
         Person jane = new Person();
         people.add(jane);
-        Student john = new Student("John Doe", 20, "male", "BME");
+        Student john = new Student("Adam", 20, "male", "BME");
+        //Student john2 = new Student(john.name,john.age,john.);
         people.add(john);
         Student student = new Student();
         people.add(student);
@@ -45,6 +46,15 @@ public class Test {
         awesome.addStudent(john);
         awesome.addMentor(mentor);
         awesome.addMentor(gandhi);
+
+
+        Student o2 = (Student) john.clone();
+        o2.introduce();
+        //Object o = new Student();
+        awesome.addStudent((Student)john.clone());
         awesome.info();
+
+
+
     }
 }
