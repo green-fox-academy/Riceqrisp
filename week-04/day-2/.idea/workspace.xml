@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b378f81b-c135-4fc3-99b2-d2ac1434a2fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenAPP/src/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/src/Garden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../GardenAPP/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/src/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/leftoversobjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/Dominos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/Dominos/out/production/Dominos/Domino.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/Dominos/out/production/Dominos/Domino.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/Dominos/out/production/Dominos/Dominoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/Dominos/out/production/Dominos/Dominoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/Dominos/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/Dominos/src/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/Dominos/src/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/Dominos/src/Dominoes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week-04/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/week-04/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/week-04/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/week-04/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -132,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539084586455" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539097515551" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -158,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539076652443</updated>
-      <workItem from="1539076657156" duration="3179000" />
+      <workItem from="1539076657156" duration="3421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3179000" />
+    <option name="totallyTimeSpent" value="3421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />

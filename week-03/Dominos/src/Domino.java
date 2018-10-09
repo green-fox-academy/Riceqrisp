@@ -1,7 +1,9 @@
+import sun.awt.SunHints;
+
 import java.util.Arrays;
 
-public class Domino {
-    private final int[] values;
+public class Domino implements Comparable<Domino> {
+     final int[] values;
 
     public Domino(int valueA, int valueB) {
         this.values = new int[]{valueA, valueB};
@@ -14,6 +16,11 @@ public class Domino {
     @Override
     public String toString() {
         return "[" + values[0] + ", " + values[1] + "]";
+    }
+    @Override
+    public int compareTo(Domino o) {
+
+        return toString().compareTo(o.toString());
     }
 }
 //  You have the list of Dominoes

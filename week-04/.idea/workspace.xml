@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2328612a-11e4-4b29-8676-53fff6a0af9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/day-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GardenAPP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GardenAPP/src/Garden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GardenAPP/src/Garden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GardenAPP/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GardenAPP/src/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/Dominos/out/production/Dominos/Domino.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/out/production/Dominos/Domino.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/Dominos/out/production/Dominos/Dominoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/out/production/Dominos/Dominoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/Dominos/src/Domino.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/src/Domino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/Dominos/src/Dominoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/src/Dominoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4546" />
+          <entry key="java" value="4548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4546" />
+          <entry key="JAVA" value="4548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -78,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="353">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="e#942#943#0" expanded="true" />
                 <element signature="e#987#988#0" expanded="true" />
@@ -129,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="251">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -169,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -246,15 +243,15 @@
       <updated>1538993006323</updated>
       <workItem from="1538993011246" duration="13676000" />
       <workItem from="1539013065780" duration="2273000" />
-      <workItem from="1539079208891" duration="4300000" />
+      <workItem from="1539079208891" duration="5677000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20249000" />
+    <option name="totallyTimeSpent" value="21626000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16442953" />
@@ -388,21 +385,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        <state relative-caret-position="353">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="e#942#943#0" expanded="true" />
             <element signature="e#987#988#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
         </state>
       </provider>
     </entry>

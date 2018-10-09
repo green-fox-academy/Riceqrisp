@@ -51,7 +51,7 @@ public class Test {
         Student o2 = (Student) john.clone();
         o2.introduce();
         //Object o = new Student();
-        awesome.addStudent((Student)john.clone());
+        //awesome.addStudent((Student)john.clone());
         awesome.info();
 
 
