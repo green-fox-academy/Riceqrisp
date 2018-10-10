@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad94cd48-e5c2-4c83-8455-550cf4531f9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/src/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/out/production/day-4/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/out/production/day-4/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/src/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leftoversobjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/Test/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/Test/AnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
     <session id="-2141466030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.9" value="1" />

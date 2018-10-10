@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2328612a-11e4-4b29-8676-53fff6a0af9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day-3/src/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GardenAPP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/day-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/day-4/out/production/day-4/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/day-4/out/production/day-4/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-03/day-4/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/day-4/src/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-3/Test/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/Test/AnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-3/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
     <session id="1899401913">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
@@ -78,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="153">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="e#942#943#0" expanded="true" />
                 <element signature="e#1034#1035#0" expanded="true" />
@@ -166,7 +168,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1217" />
     <option name="height" value="1038" />
@@ -244,15 +246,15 @@
       <workItem from="1538993011246" duration="13676000" />
       <workItem from="1539013065780" duration="2273000" />
       <workItem from="1539079208891" duration="6280000" />
-      <workItem from="1539156779514" duration="1242000" />
+      <workItem from="1539156779514" duration="1840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23471000" />
+    <option name="totallyTimeSpent" value="24069000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="973" height="830" extended-state="1" />
+    <frame x="-6" y="0" width="973" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21577218" />
@@ -395,8 +397,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="153">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="e#942#943#0" expanded="true" />
             <element signature="e#1034#1035#0" expanded="true" />

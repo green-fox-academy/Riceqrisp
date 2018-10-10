@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9cb833-f002-461c-81e7-6439b191a765" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/src/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/out/production/day-4/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/out/production/day-4/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-4/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-4/src/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/Test/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/Test/AnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="340">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -313,12 +315,12 @@
       <workItem from="1538810695002" duration="14157000" />
       <workItem from="1538918156000" duration="8416000" />
       <workItem from="1539097692971" duration="4537000" />
-      <workItem from="1539156786251" duration="1806000" />
+      <workItem from="1539156786251" duration="2408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28916000" />
+    <option name="totallyTimeSpent" value="29518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="26" width="1244" height="674" extended-state="1" />
@@ -476,8 +478,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="340">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
