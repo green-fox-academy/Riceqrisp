@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d9cb833-f002-461c-81e7-6439b191a765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/Tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dominos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leftoversobjects/Fleet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leftoversobjects/FleetOfThings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leftoversobjects/MondayHomework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leftoversobjects/Thing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FleetOfThings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-2/src/Cloneable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-2/src/Cloneable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/Test/ApplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/Test/ApplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/out/production/Tests/Apples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/out/production/Tests/Apples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/out/test/Tests/ApplesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/out/test/Tests/ApplesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +112,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -131,7 +121,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thing.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -324,15 +314,16 @@
       <workItem from="1538810695002" duration="14157000" />
       <workItem from="1538918156000" duration="8416000" />
       <workItem from="1539097692971" duration="4537000" />
-      <workItem from="1539156786251" duration="1184000" />
+      <workItem from="1539156786251" duration="1806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28294000" />
+    <option name="totallyTimeSpent" value="28916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="26" width="1244" height="674" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3259362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -456,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
@@ -488,6 +472,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>

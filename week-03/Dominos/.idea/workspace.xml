@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad94cd48-e5c2-4c83-8455-550cf4531f9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/Tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../GardenAPP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leftoversobjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/out/production/leftoversobjects/Fleet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/out/production/leftoversobjects/FleetOfThings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/out/production/leftoversobjects/MondayHomework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/out/production/leftoversobjects/Thing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/src/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leftoversobjects/src/CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leftoversobjects/src/FleetOfThings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leftoversobjects/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leftoversobjects/src/Thing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-2/src/Cloneable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-2/src/Cloneable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/Test/ApplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/Test/ApplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/out/production/Tests/Apples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/out/production/Tests/Apples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/out/test/Tests/ApplesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/out/test/Tests/ApplesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/src/Apples.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +57,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Domino.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -76,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Dominoes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="272">
               <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -123,9 +113,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
-    <option name="width" value="1217" />
+    <option name="width" value="1093" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -183,15 +173,16 @@
       <updated>1538575490257</updated>
       <workItem from="1538575493373" duration="17098000" />
       <workItem from="1539084690455" duration="15660000" />
-      <workItem from="1539156782832" duration="1311000" />
+      <workItem from="1539156782832" duration="1924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34069000" />
+    <option name="totallyTimeSpent" value="34682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-6" y="0" width="874" height="830" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -282,6 +273,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Domino.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -291,18 +289,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Dominoes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="272">
           <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
         </state>
       </provider>
     </entry>

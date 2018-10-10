@@ -1,7 +1,7 @@
 public class Apples {
     private String apple;
     public Apples(){
-        apple = "Applefsefsefs";
+        apple = "Applesefsefse";
 //        System.out.println(apple);
     }
     public String getApple() {
