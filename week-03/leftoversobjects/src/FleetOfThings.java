@@ -1,6 +1,9 @@
-public class FleetOfThings {
+import java.util.Collections;
+
+public class FleetOfThings  {
 
     public static void main(String[] args) {
+
         Fleet fleet = new Fleet();
         // Create a fleet of things to have this output:
         // 1. [ ] Get milk
@@ -20,6 +23,10 @@ public class FleetOfThings {
         eat.complete();
         fleet.add(eat);
 
+        Collections.sort(fleet);
+
         System.out.println(fleet);
     }
+
+
 }
