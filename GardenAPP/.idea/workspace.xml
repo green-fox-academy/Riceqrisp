@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee59eb65-dfd9-4b6d-b7f1-0660c13f613a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/Dominos/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-03/leftoversobjects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-04/day-3/Test/ApplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/Test/ApplesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-04/day-3/out/production/Tests/Apples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/out/production/Tests/Apples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-04/day-3/out/test/Tests/ApplesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/out/test/Tests/ApplesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-04/day-3/src/Apples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/src/Apples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-04/day-3/Test/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/Test/AnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-04/day-3/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/day-3/src/Anagram.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,10 +131,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="26" />
+    <option name="y" value="32" />
+    <option name="width" value="1555" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,7 +216,7 @@
     <option name="totallyTimeSpent" value="14755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3633842" />
