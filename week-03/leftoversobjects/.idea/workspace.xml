@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9cb833-f002-461c-81e7-6439b191a765" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
