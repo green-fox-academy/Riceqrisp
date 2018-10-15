@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="16ca4fdc-5a99-42be-9557-3822a7e6fa62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../week-03/leftoversobjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/leftoversobjects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Garden/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/Flower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Garden/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Garden/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/Plant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Garden/src/tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Garden/src/tree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539638374010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539641306501" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>

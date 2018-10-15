@@ -1,3 +1,5 @@
+import javax.sound.midi.Soundbank;
+
 public abstract class Plant {
     String color;
     double waterAmount;
@@ -16,6 +18,14 @@ public abstract class Plant {
     }
     public boolean needswater() {
         return waterAmount < tolerance;
+    }
+    public String needWaterMessage(){
+        if (needswater() == false) {
+            return " doesn't need water ";
+        }
+        else {
+            return " needs water ";
+        }
     }
     public abstract double absorptionLevel();
 }
