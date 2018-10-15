@@ -4,9 +4,13 @@
     <list default="true" id="9d9cb833-f002-461c-81e7-6439b191a765" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/Storage" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/Storage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/Storage" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/Storage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DiceSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="623">
               <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
             </state>
           </provider>
@@ -68,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="102">
               <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MondayHomework.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -119,11 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -196,11 +200,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="265" />
-    <option name="y" value="195" />
-    <option name="width" value="1555" />
-    <option name="height" value="843" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -208,8 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +227,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +237,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539116083863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539605188126" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,18 +321,17 @@
       <workItem from="1538810695002" duration="14157000" />
       <workItem from="1538918156000" duration="8416000" />
       <workItem from="1539097692971" duration="4537000" />
-      <workItem from="1539156786251" duration="3025000" />
+      <workItem from="1539156786251" duration="7057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30135000" />
+    <option name="totallyTimeSpent" value="34167000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="156" width="1244" height="674" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3259362" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,7 +358,7 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="8" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.0" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -407,30 +409,6 @@
     <entry file="file://$PROJECT_DIR$/../fractals/src/SierpinskyCarpet.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DiceSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MondayHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sharpies.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -472,6 +450,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiceSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -479,10 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thing.java">
+    <entry file="file://$PROJECT_DIR$/src/MondayHomework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
