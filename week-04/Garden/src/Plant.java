@@ -1,4 +1,4 @@
-public class Plant {
+public abstract class Plant {
     String color;
     double waterAmount;
     boolean needwater;
@@ -15,9 +15,7 @@ public class Plant {
         waterAmount += waterAmount + absorptionLevel();
     }
     public boolean needswater() {
-        return waterAmount<tolerance;
+        return waterAmount < tolerance;
     }
-    public double absorptionLevel(double absorb){
-        return absorb;
-    }
+    public abstract double absorptionLevel();
 }

@@ -3,15 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9d9cb833-f002-461c-81e7-6439b191a765" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/ListTasks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/Storage" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/Storage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/out/production/toDoProcject/StoriesToDo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/ListTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/Storage" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/Storage" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/src/StoriesToDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/CodingDojo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/CodingDojo1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/src/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/src/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/src/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/src/tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/src/tree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -81,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MondayHomework.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -200,10 +197,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1913" />
+    <option name="width" value="956" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -237,8 +234,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539605188126" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539638373959" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week-04/Garden" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -321,17 +318,18 @@
       <workItem from="1538810695002" duration="14157000" />
       <workItem from="1538918156000" duration="8416000" />
       <workItem from="1539097692971" duration="4537000" />
-      <workItem from="1539156786251" duration="7057000" />
+      <workItem from="1539156786251" duration="9580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34167000" />
+    <option name="totallyTimeSpent" value="36690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1913" y="0" width="956" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664429" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32127193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,16 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FleetOfThings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -484,7 +472,17 @@
     <entry file="file://$PROJECT_DIR$/src/MondayHomework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
