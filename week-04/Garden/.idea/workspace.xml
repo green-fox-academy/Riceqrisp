@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91bbaea0-0423-4950-a169-7f5bbf2d0a38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/src/Labirynth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/src/Monster.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/floor-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/boss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/floor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/hero-down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/hero-left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/hero-right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/hero-up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/skeleton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/gif/wall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/hero-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/hero-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/hero-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/hero-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/hero-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/skeleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/img/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-05/WandererGame/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-05/Wanderer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/Wanderer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/.idea/wanderer-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/src/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-05/Wanderer/wanderer-java/src/PositionedImage.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -182,7 +212,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539682228239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539684457291" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />

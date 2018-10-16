@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59c561dd-ae6d-4481-ad62-361be637f740" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Wanderer/wanderer-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wanderer/wanderer-java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wanderer/wanderer-java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/boss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/boss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/floor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/hero-down.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/hero-left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/hero-right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/hero-up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/skeleton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gif/wall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hero-up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/skeleton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Garden/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Garden/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wanderer/wanderer-java/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wanderer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wanderer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/Wanderer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Wanderer/wanderer-java/.idea/wanderer-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/wanderer-java/src/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/wanderer-java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wanderer/wanderer-java/src/PositionedImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/boss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/floor-map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/floor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/boss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/floor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/hero-down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/hero-left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/hero-right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/hero-up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/skeleton.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/gif/wall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/hero-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/hero-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/hero-map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/hero-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/hero-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/skeleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wanderer-java/img/wall.png" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1128685839">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PositionedImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Tile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/PositionedImage.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WandererGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WandererGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WandererGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WandererGame" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WandererGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WandererGame" type="462c0819:PsiDirectoryNode" />
+              <item name="wanderer-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539684457339" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gromasz\Documents\Bootcamp\Day2\Repos\home\greenfox\Riceqrisp\week-05\WandererGame" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gromasz\Documents\Bootcamp\Day2\Repos\home\greenfox\Riceqrisp\week-05\WandererGame\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="WandererGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Board" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c561dd-ae6d-4481-ad62-361be637f740" name="Default Changelist" comment="" />
+      <created>1539683606200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539683606200</updated>
+      <workItem from="1539683609768" duration="845000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="845000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5159501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3328551" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/PositionedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1300" selection-start-line="1300" selection-end-line="1300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
