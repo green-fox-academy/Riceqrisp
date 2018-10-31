@@ -1,0 +1,35 @@
+
+th {
+    background-color: black;
+    color: white;
+}
+/*its important not to have space after tr with n-th child becouse for
+space it is treated as "containing element"*/
+tr:nth-child(even){
+    background-color: #EBEBEB;
+}
+td {
+    color: gray;
+    column-width: 200px;
+    padding: 35px;
+}
+table {
+    border-collapse:separate;
+    border:solid grey 1px;
+    border-radius:6px;
+    -moz-border-radius:6px;
+}
+
+td, th {
+    border-left:solid  1px;
+    border-top:solid grey 1px;
+}
+
+th {
+    background-color: black;
+    border-top: none;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
