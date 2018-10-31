@@ -33,8 +33,9 @@ public class ListTasks {
     public void readFromStorage(){
        Path path = Paths.get("Storage");
         try{
+
             List<String> storage = Files.readAllLines(path);
-            String = order;
+            String order = "";
             for (int i = 0; i < storage.size(); i++) {
 
                if (storage.get(i).charAt(0) == 0) {
