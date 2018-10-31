@@ -1,0 +1,17 @@
+label {
+    font-family: "Droid Sans Mono"; 
+    font-size: 15px; 
+    display: flex;
+    text-align: center;
+}
+h1{
+    font-family: "Droid Sans Mono";
+}
+.box {
+    text-align: center;
+}
+button{
+    border-radius: 50px;
+    color: black;
+    width: 2cm;
+}
