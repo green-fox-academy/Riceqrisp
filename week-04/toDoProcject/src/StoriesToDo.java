@@ -13,13 +13,16 @@ public class StoriesToDo {
             //System.out.println(args.toString());
         }
         else if (args[0].equals("-a")){
+            // below line to be removed.
             ListTasks task = new ListTasks();
             String newtask = "";
             for (int i = 1; i < args.length ; i++) {
                // task.addToList(args[i].concat(" ")); I am doing the same below but with newtask variable
                 newtask = newtask + args[i] + " ";
+
             }
             task.writeToFile(newtask);
+            task.readFromStorage();
         }
         else if (args[0].equals("-l")){
             ListTasks task = new ListTasks();
@@ -35,15 +38,9 @@ public class StoriesToDo {
         }
         else if (args[0].equals("-c")){
             ListTasks complete = new ListTasks();
-            int index = 0;
-           // String indexS = "";
-
-            for (int i = 1; i < args.length; i++) {
-
-                index = Integer.parseInt(args[i]);
-
-                complete.completed(index);
-            }
+            int index = Integer.parseInt(args[1]);
+            complete.completed(index);
+            complete.readFromStorage();
         }
         else if(args[0].equals("-JackSparrow")){
             ListTasks doesntMatter = new ListTasks();

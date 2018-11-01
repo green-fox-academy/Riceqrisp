@@ -2,23 +2,17 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 
 import static java.nio.file.Files.lines;
 
 //Do I really need this array where is it used?
 public class ListTasks {
-    //List<String> storage = new ArrayList<String>();
-
-
-    //do I really need this method, I guess not.
-    //    public void addToList(String task){
-    //        storage.add(task); }
-
+        List<String> storage = new ArrayList<String>();
     public void writeToFile(String string){
 
         try {
-
             Path path = Paths.get("Storage");
             List<String> storage = Files.readAllLines(path);
             storage.add(string);
@@ -31,55 +25,44 @@ public class ListTasks {
         //storage1.add("First line of my file");
     }
     public void readFromStorage(){
-       Path path = Paths.get("Storage");
+       Path path = Paths.get("src/Storage");
         try{
 
             List<String> storage = Files.readAllLines(path);
-            String order = "";
+
             for (int i = 0; i < storage.size(); i++) {
 
-               if (storage.get(i).charAt(0) == 0) {
-                    order = storage.get(0).replace(storage.get(0).substring(0,1),i + "[" + "" + "]");
+                String order = Integer.toString(i+1);
+                if (storage.get(i).charAt(0) == '0') {
+                    storage.set(i, order + ". " + "[" + " " + "]" + storage.get(i).substring(1));
+                } else if (storage.get(i).charAt(0) == '1') {
+                    storage.set(i, order + ". " + "[" + "x" + "]" + storage.get(i).substring(1));
                 }
-                else if (storage.get(i).charAt(0) == 1) {
-                    order = storage.get(0).replace(storage.get(0).substring(0,1),i + "[" + "x" + "]");
-               }
             }
+                for (String element: storage) {
+                    System.out.println(element);
+                }
         }
         catch (IOException e){
             System.out.println(e);
         }
     }
     public void completed(int index){
-        Path path = Paths.get("Storage");
+        Path path = Paths.get("src/Storage");
         try {
             List<String> storage = Files.readAllLines(path);
-            // System.out.println(storage);
-            // Following loop should work as:
-            // for each check index if the index is one from args(given after -c) print out with number of index and concatanate it with [x]
-            // else print out index + []
-
             for (int i = 0; i < storage.size(); i++) {
-
-                if(index ==  i) {
-
-
+                if(i+1 == index) {
+                    storage.set(i,storage.get(i).replace("0","1"));
+                    Files.write(path,storage);
                 }
-                else {
-                    storage.set(i, "[" + " " + "]" + storage.get(i));
-                }
-            }
-            Files.write(path,storage);
-            System.out.println(storage);
-            if (storage.size() == 0){
-                System.out.println("There are no assigned todos");
             }
         }
         catch (IOException e){
             System.out.println(e);
         }
-
     }
+
     public String  easterEggBeard(String name) {
         if (name.length() > 0) {
 //            Path path = Paths.get("Storage");
