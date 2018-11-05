@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 public class StoriesToDo {
     public static void main(String[] args) {
+        ListTasks task = new ListTasks();
+
         if(args.length == 0) {
             //Printing intro if there are no args
             PrintUsage intro = new PrintUsage();
@@ -13,34 +15,27 @@ public class StoriesToDo {
             //System.out.println(args.toString());
         }
         else if (args[0].equals("-a")){
-            // below line to be removed.
-            ListTasks task = new ListTasks();
             String newtask = "";
             for (int i = 1; i < args.length ; i++) {
-               // task.addToList(args[i].concat(" ")); I am doing the same below but with newtask variable
-                newtask = newtask + args[i] + " ";
-
+                newtask = "0" + newtask + args[i] + " ";
             }
             task.writeToFile(newtask);
             task.readFromStorage();
         }
         else if (args[0].equals("-l")){
-            ListTasks task = new ListTasks();
             task.readFromStorage();
         }
         else if (args[0].equals("-r")){
-            ListTasks task = new ListTasks();
-
-            //method for removing indexes from task.content array from the file Storage
-            for (int i = 0; i < args.length ; i++) {
-
+            for (int i = 0; i < args.length; i++) {
+                int index = Integer.parseInt(args[i]);
+                task.remove(index);
             }
         }
         else if (args[0].equals("-c")){
-            ListTasks complete = new ListTasks();
+
             int index = Integer.parseInt(args[1]);
-            complete.completed(index);
-            complete.readFromStorage();
+            task.completed(index);
+            task.readFromStorage();
         }
         else if(args[0].equals("-JackSparrow")){
             ListTasks doesntMatter = new ListTasks();

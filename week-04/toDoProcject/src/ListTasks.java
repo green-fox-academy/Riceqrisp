@@ -9,20 +9,18 @@ import static java.nio.file.Files.lines;
 
 //Do I really need this array where is it used?
 public class ListTasks {
-        List<String> storage = new ArrayList<String>();
+    ArrayList<ToDos> storage = new ArrayList<>();
+
     public void writeToFile(String string){
 
         try {
-            Path path = Paths.get("Storage");
+            Path path = Paths.get("src/Storage");
             List<String> storage = Files.readAllLines(path);
             storage.add(string);
-
             Files.write(path, storage);
-
         } catch (Exception ex) {
             System.out.println("Uh-oh, could not write the file!");
         }
-        //storage1.add("First line of my file");
     }
     public void readFromStorage(){
        Path path = Paths.get("src/Storage");
@@ -65,23 +63,15 @@ public class ListTasks {
 
     public String  easterEggBeard(String name) {
         if (name.length() > 0) {
-//            Path path = Paths.get("Storage");
             System.out.println();
             System.out.println(name + "'s" + " nothing else from now should be on to do list I think... Jack lost his compass");
-            //List<String> storage = Files.readAllLines(path);
-//            for (int i = 0; i < storage.size(); i++) {
-//                storage.set(i, "[" + "x" + "]" + storage.get(i));
-//            }
-            // Files.(path,"C:/Documents/");
-            // Files.exists()
-
         }
         return easterEggBeard(name + " doesn't have the parrot");
     }
     public void remove(int index){
-        Path path = Paths.get("Storage");
-        //.clear;
-
+        Path path = Paths.get("src/Storage");
+        storage.remove(index);
+        readFromStorage();
     }
 
 }
