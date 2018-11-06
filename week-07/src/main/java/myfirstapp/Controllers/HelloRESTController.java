@@ -18,5 +18,4 @@ public class HelloRESTController {
 
         return new Greeting(count.getAndIncrement(),"Hello " + name);
     }
-
 }
