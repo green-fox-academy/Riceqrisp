@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d522597-b29a-4503-bf0d-0c3b84ebf7d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/modules/day-2_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/modules/day-2_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-2/day-2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/myfirstapp/Controllers/HelloRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myfirstapp/Controllers/HelloRESTController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/Controllers/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/Controllers/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/src/main/java/BankApp/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/src/main/java/BankApp/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2/src/main/java/BankApp/Controllers/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/src/main/java/BankApp/Controllers/FirstController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -657,12 +653,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541421412894</updated>
       <workItem from="1541421415896" duration="17208000" />
-      <workItem from="1541491835365" duration="7405000" />
+      <workItem from="1541491835365" duration="7707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24613000" />
+    <option name="totallyTimeSpent" value="24915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="836" height="830" extended-state="1" />

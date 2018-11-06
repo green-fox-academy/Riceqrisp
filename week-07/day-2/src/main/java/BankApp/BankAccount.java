@@ -9,6 +9,11 @@ public class BankAccount {
         this.animalType = animalType;
         this.balance = balance;
     }
+    @Override
+    public String toString(){
+        return name + " " + animalType + " " + balance + "$";
+    }
+
 
     public String getName() {
         return name;
