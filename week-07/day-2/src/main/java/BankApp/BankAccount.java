@@ -11,7 +11,7 @@ public class BankAccount {
     }
     @Override
     public String toString(){
-        return name + " " + animalType + " " + balance + "$";
+        return name + " " + animalType;
     }
 
 

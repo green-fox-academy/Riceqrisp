@@ -8,9 +8,20 @@
 <body>
 <table>
     <tr>
-        <th th:each="account: ${lionKing}" th:text = "'Bank account of '+ ${account.toString()}"> </th>
-        <td th:each="account: ${lionKing}" th:text = "'Bank account of '+ ${account.toString()}"> </td>
+        <th>Index</th>
+        <th>Name</th>
+        <th>Animal Type</th>
+        <th>Balance</th>
+        <th>King</th>
     </tr>
+
+    <tr th:each="account: ${lionKing}" th:class="${account}">
+            <td th:text="${accountStat.index}"></td>
+            <td th:text="${account.name}"></td>
+            <td th:text="${account.animalType}" th:unless="${account.animalType.equals('lionKing')}"></td>
+            <td th:text="${account.balance} + '$'"></td>
+    </tr>
+
 </table>
 </body>
 </html>
