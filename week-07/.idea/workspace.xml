@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="8d522597-b29a-4503-bf0d-0c3b84ebf7d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/out/production/classes/BankApp/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2/out/production/resources/templates/multipleAcccounts.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/out/production/resources/templates/multipleAcccounts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2/src/main/java/BankApp/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/src/main/java/BankApp/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day-2/src/main/resources/templates/multipleAcccounts.html" beforeDir="false" afterPath="$PROJECT_DIR$/day-2/src/main/resources/templates/multipleAcccounts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3/out/production/classes/Main/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/out/production/classes/Main/Controller/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3/src/main/java/Main/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/day-3/src/main/java/Main/Controller/FirstController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />

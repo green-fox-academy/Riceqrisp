@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
@@ -24,9 +25,10 @@ public class FirstController {
 
         return "BacgroundColored";
     }
-    @GetMapping(value  = "/useful/email")
-    public String email(@RequestParam){
-
+    @RequestMapping("/useful/email")
+    //@RequestParam(value = "param1", required = true)
+    public String email(){
+        return "email";
     }
 
 }
