@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b84aa32-aedd-49fb-8f00-ea3ab766884d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/toDoProcject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Controller/FirstController.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b84aa32-aedd-49fb-8f00-ea3ab766884d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -32,6 +27,7 @@
     <session id="1200269756">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -685,7 +681,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541664582943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541667136618" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -726,12 +722,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541584138877</updated>
-      <workItem from="1541584178635" duration="22874000" />
+      <workItem from="1541584178635" duration="22884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22874000" />
+    <option name="totallyTimeSpent" value="22884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="0" width="1434" height="830" extended-state="0" />
@@ -755,7 +751,7 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.32998565" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.33859396" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.33859396" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
