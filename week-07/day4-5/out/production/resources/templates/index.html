@@ -6,13 +6,16 @@
 </head>
 <body>
     <ul>
+        <li><a th:href="@{/tricks/list}">Information</a></li>
+        <li><a th:href="@{/tricks}">Trick Store</a></li>
+        <li><a th:href="@{/tricks/list}">Information</a></li>
         <li><a th:href="@{/product/list}">Information</a></li>
     </ul>
     <img src="greenfox.png"/>
 
 
     <strong>
-        <p th:text="'This is Mr. Fox. Currently living on pizza and lemonde. He knows 2 tricks'"></p>
+        <p th:text="'This is ' + ${petName} + ' Currently living on pizza and lemonde. He knows  + ${listOfTricks.size()} +  tricks'"></p>
     </strong>
 
         <ul>

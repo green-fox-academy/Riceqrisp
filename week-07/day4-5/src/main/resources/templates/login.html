@@ -9,9 +9,9 @@
         <p th:text="'Welcome to Programmer Fox Club!'"></p>
     </strong>
         <p th:text="'Please provide a name, so you can associate it to your pet!'"></p>
-    <form>
-        <textarea th:text="'Name'"></textarea>
-        <input th:type="button"th:value = "'go'"></input>
+    <form method = "post" action = "/index">
+        <input th:type="text" name = "petName">
+        <button>GO</button>
     </form>
 </body>
 </html>

@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+<body>
+<strong>
+    <p th:text="'Welcome to Programmer Fox Club!'"></p>
+</strong>
+<p th:text="'Please provide a name, so you can associate it to your pet!'"></p>
+<form method = "get" action = "/index">
+    <select id="pet-select">
+        <option value="">--Please choose an option--</option>
+        <option value="dog">dance</option>
+        <option value="cat">attack</option>
+        <option value="hamster">sing</option>
+        <option value="parrot">dude</option>
+        <option value="spider">run fast as fck</option>
+        <option value="goldfish">intercourse</option>
+    </select>
+</form>
+</body>
+</html>
