@@ -4,9 +4,10 @@
     <list default="true" id="4754a6db-9c1d-414a-a06e-a3a9687745e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main/Controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main/Controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/out/production/Dojo/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/out/production/Dojo/DeckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -79,7 +80,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="273">
               <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -788,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/facebook.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="273">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />

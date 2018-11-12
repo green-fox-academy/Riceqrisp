@@ -48,7 +48,17 @@ public class Deck {
         List<String> toReturn = new ArrayList<>() ;
         for (int i = 0; i < oneHand.size(); i++) {
             if (oneHand.get(i).contains("J")){
-                oneHand.set(i,oneHand.get(i).replace('J',)            }
+                oneHand.set(i,oneHand.get(i).replace("J","11"));
+            }
+            else if (oneHand.get(i).contains("Q")) {
+                    oneHand.set(i,oneHand.get(i).replace("Q","12"));
+                }
+            else if (oneHand.get(i).contains("K")) {
+                oneHand.set(i,oneHand.get(i).replace("K","13"));
+            }
+            else if (oneHand.get(i).contains("A")) {
+                oneHand.set(i,oneHand.get(i).replace("A","14"));
+            }
         }
         return oneHand;
     }
