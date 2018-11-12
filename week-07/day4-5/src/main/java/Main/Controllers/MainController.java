@@ -33,13 +33,13 @@ public class MainController {
 
     @PostMapping(value = "/index")
     public String postLogin(@RequestParam("petName") String name, Model model) {
-        if (allFoxes.isEmpty()) {
-            name = "Mr. Fox";
-            model.addAttribute("petName", name);
-        } else {
+//        if (allFoxes.isEmpty()) {
+//            name = "Mr. Fox";
+//            model.addAttribute("petName", name);
+//        } else {
             model.addAttribute("petName", name);
             allFoxes.add(new Fox(name));
-        }
+        //}
         return"index";
         }
         @GetMapping(value = "/tricks")
