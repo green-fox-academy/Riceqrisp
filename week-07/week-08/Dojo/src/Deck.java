@@ -62,6 +62,15 @@ public class Deck {
         }
         return oneHand;
     }
+    public boolean isFlush(List<String> hand){
+        int count = 5;
+        for (int i = 0; i < hand.size() ; i++) {
+            if(hand.get(i).contains("H")) {
+                count++;
+            }
+        }
+    }
+
 }
 //        Black: 2H 3D 5S 9C KD White: 2C 3H 4S 8C AH
 //        Black: 2H 4S 4C 2D 4H White: 2S 8S AS QS 3S

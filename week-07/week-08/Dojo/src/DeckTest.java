@@ -1,4 +1,5 @@
 import org.junit.Test;
+import org.junit.experimental.theories.suppliers.TestedOn;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -65,6 +66,12 @@ public class DeckTest {
         String BlackHand1 = "Black: 2H 3D 5S 9C KD";
         assertEquals(one.getWhiteHand(BlackHand1), "KD");
     }
+    @Test
+    public void flush(){
+        String BlackHand1 = "Black: 2H 3H 5H 9H KH";
+        assertEquals(one.getWhiteHand(BlackHand1), "KD");
+    }
+
 }
 
 
