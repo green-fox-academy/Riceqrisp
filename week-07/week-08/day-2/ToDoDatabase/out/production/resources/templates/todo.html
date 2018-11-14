@@ -7,11 +7,25 @@
 <body>
 <strong>
     <p>Todos for today:</p>
+    <a href="/todo/add">Add new todo</a>
 </strong>
-<ul>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>title</th>
+        <th>urgent</th>
+        <th>done</th>
+        <th>deletion</th>
+    </tr>
+    <tr th:each = "todo: ${todos}">
+        <td th:text="${todo.getId()}"></td>
+        <td th:text="${todo.getTitle()}"></td>
+        <td th:text="${todo.getIsUrgent()}"></td>
+        <td th:text="${todo.getIsDone()}"></td>
+        <td><a th:href = "'/todo/'+${todo.getId()}+'/delete'">delete</a></td>
 
-
-</ul>
+    </tr>
+</table>
 
 
 

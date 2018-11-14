@@ -5,12 +5,12 @@ import ToDoApp.Todo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
 
 @Controller
 @RequestMapping(value = "/todo")
-public class FirstController implements CommandLineRunner {
+    public class FirstController {
 
     @Autowired
     ToDoRepository repository;
@@ -20,17 +20,25 @@ public class FirstController implements CommandLineRunner {
         return "Welcome to ToDo app";
     }
     @RequestMapping(value = {"/","/list"})
-    public String list(){
-        //model.addAttribute()
+    public String list(Model model){
+        model.addAttribute("todos",repository.findAll());
     return "todo";
     }
-    @Override
-    public void run(String... args){
-        repository.save(new Todo("I have to learn Object Relational Mapping"));
-        repository.save(new Todo("I have to learn Object Relational Mapping"));
-        repository.save(new Todo("I have to learn Object Relational Mapping"));
+    @GetMapping(value = {"/add"})
+    public String add(Model model){
+        model.addAttribute("todo",new Todo());
+        return "add";
     }
-
+    @PostMapping(value = "/add")
+    public String submit(@ModelAttribute Todo todo){
+        repository.save(todo);
+        return "redirect:/todo/";
+    }
+    @RequestMapping(value = "/{id}/delete")
+    public String delete(@PathVariable long id){
+        repository.deleteById(id);
+        return "redirect:/todo/";
+    }
 }
 //        Create a new controller called TodoController which maps to /todo
 //        Add a public String list() method which maps to / and /list in the controller,
