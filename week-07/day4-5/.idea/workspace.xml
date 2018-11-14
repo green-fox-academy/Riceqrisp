@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4754a6db-9c1d-414a-a06e-a3a9687745e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Controller/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/src/main/java/ToDoApp/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/src/main/java/ToDoApp/Controller/FirstController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -81,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/tricks.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -548,8 +548,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="1063" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -645,7 +645,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542122452286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542126685553" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -703,7 +703,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18322147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -813,7 +812,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/tricks.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -842,7 +841,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Main/Controllers/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

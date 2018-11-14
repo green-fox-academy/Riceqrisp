@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f7ab6e3-70cd-40e4-913e-b5ae137b83f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day4-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day4-5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/Dojo/src/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Controller/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/out/production/classes/ToDoApp/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week-08/day-2/src/main/java/ToDoApp/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-08/day-2/src/main/java/ToDoApp/Controller/FirstController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -87,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/BankApp/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#287#288#0" expanded="true" />
@@ -101,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/BankDisplay.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -144,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/multipleAcccounts.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -543,9 +543,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
-    <option name="width" value="1063" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -669,10 +669,9 @@
     <option name="totallyTimeSpent" value="40418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="850" height="830" extended-state="1" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30759493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3370319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -755,7 +754,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/multipleAcccounts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -780,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/BankApp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
@@ -802,7 +801,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/BankDisplay.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
