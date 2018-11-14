@@ -16,6 +16,7 @@
         <th>urgent</th>
         <th>done</th>
         <th>deletion</th>
+        <th>mark done</th>
     </tr>
     <tr th:each = "todo: ${todos}">
         <td th:text="${todo.getId()}"></td>
@@ -23,6 +24,7 @@
         <td th:text="${todo.getIsUrgent()}"></td>
         <td th:text="${todo.getIsDone()}"></td>
         <td><a th:href = "'/todo/'+${todo.getId()}+'/delete'">delete</a></td>
+        <td><a th:href = "'/todo/ +${todo.getIsDone()+''/done'">done</a></td>
 
     </tr>
 </table>

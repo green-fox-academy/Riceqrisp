@@ -39,6 +39,11 @@ import org.springframework.web.bind.annotation.*;
         repository.deleteById(id);
         return "redirect:/todo/";
     }
+    @RequestMapping(value = "/{id}/done")
+    public String done(@PathVariable long id){
+
+        return "redirect:/todo/";
+    }
 }
 //        Create a new controller called TodoController which maps to /todo
 //        Add a public String list() method which maps to / and /list in the controller,
