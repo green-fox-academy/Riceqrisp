@@ -5,18 +5,7 @@
       <change beforePath="$PROJECT_DIR$/../../../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../day4-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4-5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../day4-5/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4-5/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ToDoApp/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ToDoApp/Controller/FirstController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/todo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -51,7 +40,7 @@
         <counts>
           <entry key="gradle" value="3" />
           <entry key="html" value="4" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
           <entry key="properties" value="4" />
         </counts>
       </usages-collector>
@@ -59,7 +48,7 @@
         <counts>
           <entry key="Groovy" value="3" />
           <entry key="HTML" value="4" />
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="7" />
           <entry key="Properties" value="4" />
         </counts>
       </usages-collector>
@@ -67,7 +56,7 @@
         <counts>
           <entry key="gradle" value="3" />
           <entry key="html" value="493" />
-          <entry key="java" value="1013" />
+          <entry key="java" value="1340" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
@@ -75,7 +64,7 @@
         <counts>
           <entry key="Groovy" value="3" />
           <entry key="HTML" value="493" />
-          <entry key="JAVA" value="1013" />
+          <entry key="JAVA" value="1340" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
@@ -115,17 +104,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="85">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="289">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
@@ -185,6 +188,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -527,6 +531,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" />
       </list>
     </option>
   </component>
@@ -537,8 +542,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="493" />
-    <option name="width" value="1434" />
+    <option name="x" value="633" />
+    <option name="width" value="1294" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -636,7 +641,7 @@
     <property name="SearchEverywhereHistoryKey" value="build.&#9;FILE&#9;file://C:/Users/Gromasz/Documents/Bootcamp/Day2/Repos/home/greenfox/Riceqrisp/week-07/week-08/day-2/ToDoDatabase/build.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542228502474" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542229313379" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Heroku training/hosting-heroku-java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -697,15 +702,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542125196849</updated>
-      <workItem from="1542125200232" duration="31005000" />
+      <workItem from="1542125200232" duration="31903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31005000" />
+    <option name="totallyTimeSpent" value="31903000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="507" y="0" width="1035" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -714,7 +719,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2926491" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35170603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32998565" />
       <window_info anchor="bottom" id="Spring" />
@@ -811,13 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -866,8 +864,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
@@ -880,6 +878,25 @@
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#522#523#0" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
           </folding>
         </state>
       </provider>
