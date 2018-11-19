@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>Getting Started: Serving Web Content</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link href="/styles.css" rel="stylesheet">
+</head>
+<body>
+    <strong>
+        <p>Todos for today:</p>
+        <a href="/todo/add">Add new todo</a>
+    </strong>
+
+    <p>Is it done yet:</p>
+    <form method = "get" action = "/todo/">
+    <div>
+        <input type="checkbox" id="scales" name="scales">
+        <label for="scales">Done</label>
+    </div>
+
+    <div>
+        <input type="checkbox" id="horns" name="horns">
+        <label for="horns">Not yet</label>
+</div>
+
+</body>
+</html>

@@ -4,7 +4,8 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-
+//not working table for done
+//
 @Entity
 public class Todo {
     @Id
@@ -13,6 +14,10 @@ public class Todo {
     String title;
     boolean urgent;
     boolean done;
+
+    public void setDone(boolean done) {
+        this.done = done;
+    }
 
     public long getId() {
         return id;

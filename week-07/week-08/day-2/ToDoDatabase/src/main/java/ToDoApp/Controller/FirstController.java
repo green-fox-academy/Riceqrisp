@@ -4,6 +4,7 @@ import ToDoApp.Repository.ToDoRepository;
 import ToDoApp.Todo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -42,8 +43,12 @@ import org.springframework.web.bind.annotation.*;
     @RequestMapping(value = "/{id}/done")
     public String done(@PathVariable long id){
 
+        Todo t = repository.findById(id).get();
+        t.setDone(true);
+        repository.save(t);
         return "redirect:/todo/";
     }
+
 }
 //        Create a new controller called TodoController which maps to /todo
 //        Add a public String list() method which maps to / and /list in the controller,

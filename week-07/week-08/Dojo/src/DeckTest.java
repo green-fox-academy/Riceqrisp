@@ -56,7 +56,6 @@ public class DeckTest {
 
     @Test
     public void replaceLettersWithNumbers (){
-        String twoHands = "Black: 2H 3D 5S 9C KD White: 2C 3H 4S 8C AH";
         String blackHand1 = "Black: JD KD QS AC JD";
         assertEquals(one.replaceLettersWithNumbers(one.getWhiteHand(blackHand1)),
                 Arrays.asList("11D","13D","12S","14C","11D"));

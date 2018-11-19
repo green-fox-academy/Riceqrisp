@@ -6,7 +6,6 @@ public class Deck {
 
     public int comparable(String card){
         int cardnumber = 0;
-        //cardnumber = Integer.valueOf(card.charAt(0));
         cardnumber = Integer.parseInt(card.substring(0,1));
 
         return cardnumber;
@@ -62,14 +61,14 @@ public class Deck {
         }
         return oneHand;
     }
-    public boolean isFlush(List<String> hand){
-        int count = 5;
-        for (int i = 0; i < hand.size() ; i++) {
-            if(hand.get(i).contains("H")) {
-                count++;
-            }
-        }
-    }
+//    public boolean isFlush(List<String> hand){
+//        int count = 5;
+//        for (int i = 0; i < hand.size() ; i++) {
+//            if(hand.get(i).contains("H")) {
+//                count++;
+//            }
+//        }
+//    }
 
 }
 //        Black: 2H 3D 5S 9C KD White: 2C 3H 4S 8C AH

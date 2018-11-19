@@ -4,8 +4,27 @@
     <list default="true" id="50a2bf4f-8c47-4b36-81b3-44e11674d60b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day-2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../day4-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4-5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day4-5/src/main/java/Main/Controllers/textnotes" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4-5/src/main/java/Main/Controllers/textnotes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../day4-5/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day4-5/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dojo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dojo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dojo/out/production/Dojo/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dojo/out/production/Dojo/Deck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dojo/out/production/Dojo/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dojo/out/production/Dojo/DeckTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dojo/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dojo/src/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dojo/src/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dojo/src/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kid_Laugh.wav" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/Kid_Laugh.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ToDoApp/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ToDoApp/Controller/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ToDoApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ToDoApp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ToDoApp/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ToDoApp/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/todo.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,38 +52,43 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="gradle" value="3" />
-          <entry key="html" value="4" />
-          <entry key="java" value="7" />
+          <entry key="html" value="5" />
+          <entry key="java" value="8" />
           <entry key="properties" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="Groovy" value="3" />
-          <entry key="HTML" value="4" />
-          <entry key="JAVA" value="7" />
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="8" />
           <entry key="Properties" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="19" />
           <entry key="gradle" value="3" />
-          <entry key="html" value="493" />
-          <entry key="java" value="1340" />
+          <entry key="html" value="782" />
+          <entry key="java" value="1967" />
           <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="19" />
           <entry key="Groovy" value="3" />
-          <entry key="HTML" value="493" />
-          <entry key="JAVA" value="1340" />
+          <entry key="HTML" value="782" />
+          <entry key="JAVA" value="1967" />
           <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
@@ -75,14 +99,16 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,11 +117,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Controller/KlaraHi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,22 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -127,30 +149,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            <state relative-caret-position="-221">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
                 <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -158,26 +165,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/add.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="215">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/done.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="221">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -188,6 +204,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="Class" />
       </list>
     </option>
@@ -523,15 +540,19 @@
       <list>
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java" />
         <option value="$PROJECT_DIR$/src/test/resources/add.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/add.html" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/todo.html" />
-        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/add.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java" />
         <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/done.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/todo.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/styles.css" />
+        <option value="$PROJECT_DIR$/src/main/java/ToDoApp/Controller/KlaraHi.java" />
       </list>
     </option>
   </component>
@@ -541,9 +562,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="width" value="1294" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1091" />
+    <option name="width" value="838" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -616,6 +637,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ToDoDatabase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ToDoDatabase" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -641,8 +670,9 @@
     <property name="SearchEverywhereHistoryKey" value="build.&#9;FILE&#9;file://C:/Users/Gromasz/Documents/Bootcamp/Day2/Repos/home/greenfox/Riceqrisp/week-07/week-08/day-2/ToDoDatabase/build.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542229313379" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Heroku training/hosting-heroku-java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542623747818" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Dojo" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -650,6 +680,10 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gromasz\Documents\Bootcamp\Day2\Repos\home\greenfox\Riceqrisp\week-07\week-08\day-2\ToDoDatabase\src\main\resources\static" />
+      <recent name="C:\Users\Gromasz\Documents\Bootcamp\Day2\Repos\home\greenfox\Riceqrisp\week-07\week-08\day-2\ToDoDatabase\src\main\java\ToDoApp" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ToDoApp" />
       <recent name="ToDoApp.Repository" />
@@ -677,7 +711,7 @@
       <module name="ToDoDatabase_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ToDoApp.*" />
+          <option name="PATTERN" value="ToDoApp.Controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -702,51 +736,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542125196849</updated>
-      <workItem from="1542125200232" duration="31903000" />
+      <workItem from="1542125200232" duration="57167000" />
+      <workItem from="1542356580636" duration="17096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31903000" />
+    <option name="totallyTimeSpent" value="74263000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="507" y="0" width="1035" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35170603" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17919463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.32998565" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31707317" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.44113475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32998565" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4986577" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4986577" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013423" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -755,19 +799,19 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.76421636" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.15033557" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32998565" />
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32907802" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3148936" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3134752" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -799,22 +843,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/add.html">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/add.html" />
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Main.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -823,81 +868,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/add.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/todo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="26" column="77" selection-start-line="26" selection-start-column="77" selection-end-line="26" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Repository/ToDoRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="119">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Sounds.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Controller/FirstController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Controller/KlaraHi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ToDoApp/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>

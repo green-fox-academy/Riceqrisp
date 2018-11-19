@@ -17,9 +17,9 @@ public class Main implements CommandLineRunner {
     @Override
     public void run(String... args){
         repository.save(new Todo("I have to learn Object Relational Mapping"));
-        repository.save(new Todo("Dude"));
-        repository.save(new Todo("something"));
-        repository.save(new Todo("tasks & dragons"));
-        repository.save(new Todo("next exercise"));
+        repository.save(new Todo("Some more practice"));
+        repository.save(new Todo("Go have some rest"));
+        repository.save(new Todo("Tasks & dragons"));
+        repository.save(new Todo("Next exercise"));
     }
 }
