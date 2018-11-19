@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36064558-6515-4f24-bd0c-0037bd582eb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day4-5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day4-5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day4-5/src/main/java/Main/Controllers/textnotes" beforeDir="false" afterPath="$PROJECT_DIR$/../../day4-5/src/main/java/Main/Controllers/textnotes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day4-5/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../day4-5/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dojo/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dojo/Deck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Dojo/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Dojo/DeckTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/Kid_Laugh.wav" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/resources/static/Kid_Laugh.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Controller/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Controller/FirstController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/classes/ToDoApp/Todo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/resources/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/resources/templates/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/out/production/resources/templates/todo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Controller/FirstController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Controller/FirstController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Repository/ToDoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Repository/ToDoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Sounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Sounds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/java/ToDoApp/Todo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/resources/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/resources/templates/add.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/resources/templates/todo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/ToDoDatabase/src/main/resources/templates/todo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-09/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-09/day-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-09/day-1/out/production/resources/static/frontend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-09/day-1/src/main/java/checkApp/Controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-09/day-1/src/main/java/checkApp/Controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-09/day-1/src/main/resources/static/frontend.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-09/day-1/src/main/resources/static/assets/frontend.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,8 +135,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1091" />
-    <option name="width" value="838" />
+    <option name="x" value="881" />
+    <option name="width" value="1048" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,7 +171,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542623747955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542638380959" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />

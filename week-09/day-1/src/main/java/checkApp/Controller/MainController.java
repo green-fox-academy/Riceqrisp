@@ -12,10 +12,4 @@ public class MainController {
     public String goToIndex(){
         return "index";
     }
-    @GetMapping("/doubling")
-    public String doubling(){
-
-            return "index";
-        }
-
 }
