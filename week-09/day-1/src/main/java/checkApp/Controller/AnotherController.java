@@ -1,10 +1,9 @@
 package checkApp.Controller;
 
-import checkApp.Doubling;
+import checkApp.*;
 import checkApp.Error;
-import checkApp.Greeter;
-import checkApp.GreeterTo;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -35,8 +34,7 @@ public class AnotherController {
     }
     }
     @GetMapping("/appenda/{appendable}")
-    public Object appendA(){
-
-        return "dupsko";
+    public Object appendA(@PathVariable(value = "appendable", required = false) String appendA){
+        return new AppendA(appendA);
     }
 }
