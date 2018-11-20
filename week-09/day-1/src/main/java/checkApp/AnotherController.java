@@ -1,11 +1,8 @@
-package checkApp.Controller;
+package checkApp;
 
 import checkApp.*;
 import checkApp.Error;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.lang.reflect.Array;
 
@@ -36,5 +33,15 @@ public class AnotherController {
     @GetMapping("/appenda/{appendable}")
     public Object appendA(@PathVariable(value = "appendable", required = false) String appendA){
         return new AppendA(appendA);
+    }
+    @PostMapping("/dountil/{action}/{number}")
+    public Object doUntil(@PathVariable(value = "action",required = false) String action,
+                          @PathVariable(value = "number",required = false) Integer n){
+        if (n == null){
+            Error noNumber = new Error("No number provided");
+        return noNumber;
+        }
+        doUntil one = new doUntil(action,n);
+        return one;
     }
 }
